@@ -31,7 +31,7 @@ If you wish to extend this process to work with other websites, look at the two 
 
 ## Roboflow
 
-<Roboflow>(https://roboflow.com/) is a website that allows for fast manual labeling of objects. Approximately 150-200 objects from the Image Scraping phase, divided into 80% train and 20% test, were uploaded to the roboflow platform and manually labeled for each of the image classes. Roboflow does require you to create an account, but you can do a lot with a free account and there are augmentation and image processing tools available as well.
+> [Roboflow](https://roboflow.com/) is a website that allows for fast manual labeling of objects. Approximately 150-200 objects from the Image Scraping phase, divided into 80% train and 20% test, were uploaded to the roboflow platform and manually labeled for each of the image classes. Roboflow does require you to create an account, but you can do a lot with a free account and there are augmentation and image processing tools available as well.
 
 If Roboflow will **not** be used, ensure that your images and annotations are in the Yolov5 format.
 
